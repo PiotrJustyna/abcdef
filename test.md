@@ -24,4 +24,4 @@ feature 2
 3. before we PR, we do:
    1. `git pull --rebase [remote] main` - you'll be resolving conflicts (if any) locally
    2. `git push -f [remote] your-feature-branch`
-   3. Hello
+   3. Hello world
